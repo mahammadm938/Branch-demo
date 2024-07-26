@@ -9,8 +9,6 @@ function App() {
        Kodnest App
         <Classes />
         <Attendance />
-
-
      </h1>
     </>
   );

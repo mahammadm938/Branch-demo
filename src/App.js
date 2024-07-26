@@ -9,13 +9,10 @@ function App() {
        Kodnest App
         <Classes />
         <Attendance />
-
         <Placements />
         <Assessment />
-
      </h1>
     </>
   );
 }
-
 export default App;
